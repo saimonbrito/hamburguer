@@ -1,6 +1,7 @@
  
  
  $('.your-class').slick({
+
     dots: true,
     infinite: true,
     speed: 600,
